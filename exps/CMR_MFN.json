@@ -1,0 +1,11 @@
+{
+    "prefix": "produce",
+    "memory_size": 160,
+    "memory_per_class": 5,
+    "fixed_memory": false,
+    "shuffle": true,
+    "init_cls": 4,
+    "increment": 4,
+    "model_name": "CMR_MFN",
+    "seed": [1993]
+}
